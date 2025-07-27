@@ -1,6 +1,6 @@
 # Python Practice Libraries
 
-This repository contains beginner-friendly practice notebooks for popular Python data science and engineering libraries:
+This repository contains hands-on practiced ipython notebooks for popular Python data science and engineering libraries:
 
 - **NumPy** — Numerical computing with arrays and matrices
 - **Pandas** — Data manipulation and analysis with DataFrames
